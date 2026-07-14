@@ -2,7 +2,7 @@
 
 > 面向零基础中文用户的加密货币交易所入门指南:币安(Binance)与 OKX(欧易)注册、手续费减免、USDT 购买、安全防骗。所有数据注明核对日期,只写可验证的官方口径。
 >
-> 配套网站:[biruomen.com(币入门)](https://biruomen.com) · 维护者:Devin · 最后更新:2026-07
+> 配套网站:[biruomen.com(币入门)](https://biruomen.com) · 维护者:D哥(Dbro) · 最后更新:2026-07
 
 ## 目录
 
